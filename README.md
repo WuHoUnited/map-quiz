@@ -1,14 +1,7 @@
 # states
 
-A Clojure library designed to ... well, that part is up to you.
+A ClojureScript project which is a quiz of the United States.
 
-## Usage
+#Quick Start
 
-FIXME
-
-## License
-
-Copyright © 2014 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+To begin, simply open `public/prod/index.html` in a web browser.
